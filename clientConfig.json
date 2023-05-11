@@ -1,0 +1,9 @@
+{
+  "home": {
+    "gc": {
+      "card": {
+        "showCardBackGround": "red"
+      }
+    }
+  }
+}

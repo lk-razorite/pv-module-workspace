@@ -1,0 +1,13 @@
+{
+  "name": "pv-module-library",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^15.2.0",
+    "@angular/core": "^15.2.0"
+  },
+  "dependencies": {
+    "@pv-frontend/pv-components-library": "^0.0.1",
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
